@@ -2,10 +2,10 @@
 A practical real-world example that uses kafka consumer and producer to produce messages then consume them and save them to a ```MongoDB```
 
 ### Table Of Content
--[Prerequisites](#Prerequisites)
--[Build & Run instructions](#Build-and-Run-Instructions)
--[Endpoints](#Endpoints)
--[Componenets](#Components)
+- [Prerequisites](#Prerequisites)
+- [Build & Run instructions](#Build-and-Run-Instructions)
+- [Endpoints](#Endpoints)
+- [Componenets](#Components)
 
 ### Prerequisites
 1- Java >= 17
