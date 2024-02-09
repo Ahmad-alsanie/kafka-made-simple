@@ -109,4 +109,9 @@ Automates the deployment of the multi-container Docker application.
 - Volume Management: (Not explicitly covered but implied for Kafka and MongoDB) Manages data persistence beyond the lifecycle of containers.
 
 
-P.s. Happy Coding!
+## Contributing
+
+Contributions are welcome! If you have improvements or additions, please submit a pull request or open an issue.
+
+-------------------------------------------------------------
+Happy coding!
