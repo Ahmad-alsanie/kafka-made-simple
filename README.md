@@ -112,6 +112,3 @@ Automates the deployment of the multi-container Docker application.
 ## Contributing
 
 Contributions are welcome! If you have improvements or additions, please submit a pull request or open an issue.
-
--------------------------------------------------------------
-Happy coding!
